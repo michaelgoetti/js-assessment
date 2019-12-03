@@ -30,6 +30,7 @@ exports.functionsAnswers = {
   },
 
   partialUsingArguments: function(fn) {
+    
 
   },
 
